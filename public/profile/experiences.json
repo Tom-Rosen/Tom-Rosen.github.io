@@ -2,32 +2,30 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "Entegral Holdings",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                " During my time with Entegral, I have helped rewrite an API using Typescript, NestJS, and MongoDB to store, transfer, and update customer data, and developed a machine-learning application using Python and GCP to analyze and correct body shop data."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "05/2023 – 08/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Technical Service Assistant",
+            "subtitle": "Exact Sciences",
+            "workType": "Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "I worked with the IT department, keeping the tech infrastructure up and running. I spend time in the labs building and maintaining the tech infrastructure, while also working on configuring employee setups and accesses. I also worked on projects to improve future user setup and interfacing and allow for better storage numbers management."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "05/2022 – 08/2022"
+        },
+        {
+            "title": "Independent Researcher / Software Developer",
+            "subtitle": "Washington University in St. Louis",
+            "workType": "Internship",
+            "workDescription": [
+                "I worked in the lab of MD/Ph.D. Andrew Kau and two of the lab's computational & systems biology graduate students. During my time at the lab, I researched, tested, and aided in the development of an A.I. that scans the gut microbiome to detect asthma in young patients. During my time at the lab, I self-taught myself how to use R and RStudios, and learned many statistics topics used in A.I. research and development. At the end of the internship, I gave a presentation of my findings to the entire lab and will hopefully soon be cited on the scientific publication."
+            ],
+            "dateText": "05/2021 – 08/2021"
         }
     ]
 }
